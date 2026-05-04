@@ -1,0 +1,22 @@
+# Large data files — download from Kaggle instead
+*.zip
+train_imgs_1/
+test_imgs_1/
+train_1.csv
+
+# Model weights and checkpoints
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pth
+saved_model/
+logs/
+
+# Google Colab / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
