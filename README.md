@@ -126,4 +126,4 @@ pip install tensorflow keras pandas numpy matplotlib
 
 - Dataset: [Kaggle – Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 - Backbone: [ResNet-50](https://arxiv.org/abs/1512.03385) pretrained on ImageNet via `tf.keras.applications`
-- Course: CS 570 – Deep Learning, Fall 2021, University of Idaho
+- 🏆 Ranked 3rd place in the CS 570 Deep Learning course competition — Computer Science Department, University of Idaho (Fall 2021)
