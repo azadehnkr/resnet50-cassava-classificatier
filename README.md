@@ -2,7 +2,7 @@
 
 Multi-class image classification of cassava leaf diseases using transfer learning with ResNet-50. Built for the [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification) competition.
 
-Developed as the final project for Deep Learning course (Fall 2021) at the University of Idaho.
+Developed as the final project for Deep Learning course (Fall 2021) under the supervision of Dr. Min Xian at the University of Idaho.
 
 ---
 
